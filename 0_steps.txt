@@ -1,0 +1,8 @@
+1 run 1_InstallHyperV.bat 
+  -restart windows
+2 run 2_InstallContainers.bat 
+  -restart windows
+3 run 3_prodessional.reg to change home windows edition to professional
+
+4 run docker installer
+enjoy
